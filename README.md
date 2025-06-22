@@ -30,5 +30,8 @@ python temp_convert.py f2c 212
 
 ## Screenshots
 
-![Temperature Converter CLI Example 1(for valid input)](./public/correct_input.png)
-![Temperature Converter CLI Example 2(for invalid input)](./public/incorrect_input.png)
+### If input is invalid
+![incorrect_input](https://github.com/user-attachments/assets/37bd14a2-ee60-434c-931f-7d44b8a682c2)
+
+### If input is valid
+![correct_input](https://github.com/user-attachments/assets/59037a1e-054a-4337-bdb9-2609961b3aab)
